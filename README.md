@@ -1,10 +1,10 @@
 # Stock-Analysis
 
-##Project Overview
+## Project Overview
 
 The purpose of the project is to use VBA Code to analyze stocks data and provide insight on daily volume of stocks traded and the percentage return per Ticker. The raw Data comprises of 2017 and 2018 Stocks trading information, namely the starting price, closing prices and Volumes of stocks traded per ticker and the daily movement (Low and High).
 
-##Method
+## Method
 
 An existing code was edited or refactored to loop through all the stocks data and determine the following.
 •	Tickers of tocks
@@ -15,22 +15,27 @@ An existing code was edited or refactored to loop through all the stocks data an
 ##Results.
 The code ran very well on both excel sheets (2017 and 2018). Results are shown below. 
 
+## All Stocks 2017
 ![All Stocks 2017](https://user-images.githubusercontent.com/75961117/109427538-d5a56480-79c0-11eb-8a19-e4edcaa30f75.png)
 
+## All Stocks 2018
+![All Stocks 2018](https://user-images.githubusercontent.com/75961117/109427597-09808a00-79c1-11eb-8a1c-6d39784fd1d7.png)
 
 
-##Pros and Cons of Refactoring Code
 
-###Pros
+
+## Pros and Cons of Refactoring Code
+
+### Pros
 
 Refactoring helped transform the code to fit with my data and ran faster.
 Instead of a new code, a refactored code helped saved time.
 
-###Cons
+### Cons
 New bugs could be introduced and difficult to debug.
 
 
-##VBA Refactored code
+## VBA Refactored code
 
 
 Sub AllStocksAnalysisRefactored()
