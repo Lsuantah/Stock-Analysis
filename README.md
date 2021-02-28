@@ -24,8 +24,11 @@ The code ran very well on both excel sheets (2017 and 2018). Results are shown b
 
 
 
-## Ran time 2017
+## Code Ran time 2018
 ![Code Ran time for 2018](https://user-images.githubusercontent.com/75961117/109427684-84e23b80-79c1-11eb-9a0a-48198932e933.png)
+
+
+## Code Ran time 2017
 
 
 
