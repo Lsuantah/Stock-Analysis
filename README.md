@@ -12,7 +12,8 @@ An existing code was edited or refactored to loop through all the stocks data an
 •	Percentage change or return. 
 •	Applied appropriate formatting to the output.
 
-##Results.
+## Results.
+
 The code ran very well on both excel sheets (2017 and 2018). Results are shown below. 
 
 ## All Stocks 2017
@@ -21,6 +22,10 @@ The code ran very well on both excel sheets (2017 and 2018). Results are shown b
 ## All Stocks 2018
 ![All Stocks 2018](https://user-images.githubusercontent.com/75961117/109427597-09808a00-79c1-11eb-8a1c-6d39784fd1d7.png)
 
+
+
+## Ran time 2017
+![Code Ran time for 2018](https://user-images.githubusercontent.com/75961117/109427684-84e23b80-79c1-11eb-9a0a-48198932e933.png)
 
 
 
