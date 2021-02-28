@@ -1,5 +1,34 @@
 # Stock-Analysis
 
+##Project Overview
+
+The purpose of the project is to use VBA Code to analyze stocks data and provide insight on daily volume of stocks traded and the percentage return per Ticker. The raw Data comprises of 2017 and 2018 Stocks trading information, namely the starting price, closing prices and Volumes of stocks traded per ticker and the daily movement (Low and High).
+
+##Method
+
+An existing code was edited or refactored to loop through all the stocks data and determine the following.
+•	Tickers of tocks
+•	Volumes of stocks traded.
+•	Percentage change or return. 
+•	Applied appropriate formatting to the output.
+
+##Results.
+The code ran very well on both excel sheets (2017 and 2018). Results are shown below. 
+
+
+
+
+##Pros and Cons of Refactoring Code
+
+###Pros
+
+Refactoring helped transform the code to fit with my data and ran faster.
+Instead of a new code, a refactored code helped saved time.
+
+###Cons
+New bugs could be introduced and difficult to debug.
+
+
 ##VBA Refactored code
 
 
