@@ -15,6 +15,7 @@ An existing code was edited or refactored to loop through all the stocks data an
 ##Results.
 The code ran very well on both excel sheets (2017 and 2018). Results are shown below. 
 
+![All Stocks 2017](https://user-images.githubusercontent.com/75961117/109427538-d5a56480-79c0-11eb-8a19-e4edcaa30f75.png)
 
 
 
