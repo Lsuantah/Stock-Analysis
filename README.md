@@ -30,6 +30,7 @@ The code ran very well on both excel sheets (2017 and 2018). Results are shown b
 
 ## Code Ran time 2017
 
+![Code ran time 2017](https://user-images.githubusercontent.com/75961117/109427926-9f68e480-79c2-11eb-9680-31581ae9c040.png)
 
 
 ## Pros and Cons of Refactoring Code
@@ -41,6 +42,8 @@ Instead of a new code, a refactored code helped saved time.
 
 ### Cons
 New bugs could be introduced and difficult to debug.
+
+Overall, refactoring VBA script made it easier to optimize the code and completed the project on time.
 
 
 ## VBA Refactored code
