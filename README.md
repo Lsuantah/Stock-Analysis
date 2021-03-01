@@ -54,7 +54,9 @@ Overall, refactoring VBA script made it easier to optimize the code and complete
 
 
 Sub AllStocksAnalysisRefactored()
+
     Dim startTime As Single
+    
     Dim endTime  As Single
 
     yearValue = InputBox("What year would you like to run the analysis on?")
