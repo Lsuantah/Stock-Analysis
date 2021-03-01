@@ -7,9 +7,13 @@ The purpose of the project is to use VBA Code to analyze stocks data and provide
 ## Method
 
 An existing code was edited or refactored to loop through all the stocks data and determine the following.
+
 •	Tickers of tocks
+
 •	Volumes of stocks traded.
+
 •	Percentage change or return. 
+
 •	Applied appropriate formatting to the output.
 
 ## Results.
